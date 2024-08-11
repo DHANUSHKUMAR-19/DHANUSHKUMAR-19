@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Dhanush and I'm a  Associate Technical Consultant</h2>
+<h2 align="left">Hi 👋! My name is Dhanush and I'm an Associate Technical Consultant</h2>
 
 ###
 
