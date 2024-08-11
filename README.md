@@ -54,6 +54,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DHANUSHKUMAR-19/DHANUSHKUMAR-19/output/snake.svg" alt=".github/workflows/snake.yml" />
 
 ###
