@@ -48,8 +48,8 @@
 
 <p align="center">
 📚 A hub for database lovers — comparisons, tutorials, case studies, and more.  
-💥 <b><a href="https://www.databaseverse.com" target="_blank">Click here to explore 🚀</a></b>  
-<sub>Warning: May cause instant database obsession 📊🔥</sub>
+💥 <b><a href="https://www.databaseverse.com">Click here to explore</a></b>
+  
 </p>
 
 ---
