@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Dhanush and I'm an Associate Technical Consultant</h2>
+<h2 align="left"># Heyyoo 👋!  
+
+My name is **Dhanush** — welcome to my little AI playground 🛠🤖   </h2>
 
 ###
 
