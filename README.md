@@ -21,7 +21,20 @@
 
 ### 🛠 My Toolbox
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,python,django,c,linux,mysql,git&theme=light" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ffdf00?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00648B?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 ---
@@ -29,7 +42,7 @@
 ### 🚀 Featured Creation – **DatabaseVerse**
 <div align="center">
   <a href="https://www.databaseverse.com" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_DatabaseVerse-ff4b4b?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visit_DatabaseVerse-%23FF4B4B?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=000000&color=ff4b4b" />
   </a>
 </div>
 
